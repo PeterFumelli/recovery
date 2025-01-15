@@ -2,7 +2,7 @@
 
 ### Задание 1
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/recovery/blob/main/img/rsync.png)
 
 ```
 #!/bin/bash

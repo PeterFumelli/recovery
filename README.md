@@ -6,7 +6,7 @@
 
 ### Задание 2
 
-![alt text](https://github.com/PeterFumelli/recovery/blob/main/img/rsync.png)
+![alt text](https://github.com/PeterFumelli/recovery/blob/main/img/crontab.png)
 
 
 ```

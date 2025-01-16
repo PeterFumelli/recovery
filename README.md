@@ -4,6 +4,11 @@
 
 ![alt text](https://github.com/PeterFumelli/recovery/blob/main/img/rsync.png)
 
+### Задание 2
+
+![alt text](https://github.com/PeterFumelli/recovery/blob/main/img/rsync.png)
+
+
 ```
 #!/bin/bash
 
